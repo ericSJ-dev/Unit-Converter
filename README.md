@@ -9,15 +9,15 @@ Take a look at the code!
 
 Here's the main screen of the app:
 
-![conversormainsc](https://github.com/user-attachments/assets/50e678c6-f9b9-40c9-8971-899b10866621)
+![mainscr](https://github.com/user-attachments/assets/bb44e8f5-f534-4874-b3f9-a2fc621fa51e)
 
 Testing some conversions:
 
-![pruebaconver](https://github.com/user-attachments/assets/f62a1335-5fba-4203-a219-c5e85e322915)
+![second](https://github.com/user-attachments/assets/93bf0c94-13ce-426e-9b0b-19f58a3e1c05)
 
 Error handling in action:
 
-![validat](https://github.com/user-attachments/assets/facb9147-009a-45f6-897a-bee8150b6f6b)
+![error](https://github.com/user-attachments/assets/d0111828-0910-4967-8328-e0dbf8badce6)
 
 ### Instructions
 
